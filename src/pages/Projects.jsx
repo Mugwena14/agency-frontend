@@ -1,16 +1,20 @@
 export default function Projects() {
   const projects = [
     {
+      title: "Car Wrap Booking App",
+      image: "/images/drip coat clone.png",
+    },
+    {
+      title: "Coffee App",
+      image: "/images/save.png",
+    },
+    {
       title: "Agency Appointment App",
       image: "/images/agency.png",
     },
     {
       title: "Personal Portfolio Website",
       image: "/images/Portfolio.png",
-    },
-    {
-      title: "Car Wrap Booking App",
-      image: "/images/drip coat clone.png",
     },
     {
       title: "AI-Powered Task Management App",
